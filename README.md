@@ -3,7 +3,7 @@
 ![image](https://github.com/SanchanaHR/Netflix-Tableau-Dashboard/assets/127469995/7e03369a-275a-4788-b090-608967e5370b)
 
 # Introduction
-Netflix is the most subscribed video-on-demand internet streaming service and a global leader in media and video streaming. It has over 250 million subscribers in over 190 countries with its diverse library of over 8000 movies and TV shows. This Netflix Dashboard delves deep into this world of entertainment, providing valuable insights trends and patterns that can help make strategic decisions on content and viewership.
+Netflix is the most subscribed video-on-demand internet streaming service and a global leader in media and video streaming. It has over 250 million subscribers in over 190 countries with its diverse library of over 8000 movies and TV shows. This Netflix Dashboard delves deep into the world of entertainment, providing valuable insights, trends and patterns that can help make strategic decisions on content and viewership.
 
 # About Data
 The dataset contains around 6500 records of movie and TV shows with details on the title, director, cast, country and description.
